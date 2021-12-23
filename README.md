@@ -1,6 +1,6 @@
 # Beaglecoin
-=====================================
-http://beaglecoin.co
+
+https://beaglecoin.co
 
 ### Specifications
 | **Name**               | **Value**        |
